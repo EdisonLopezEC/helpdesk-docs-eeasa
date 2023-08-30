@@ -1,0 +1,16 @@
+{
+    "index": "Introducción",
+    "about": {
+        "type": "page",
+        "title": "Acerca de",
+        "theme": {
+          "typesetting": "article"
+        }
+        
+    },
+    "inicio": "Objetivos",
+    "entorno": "Configuración de entorno",
+    "back": "Back-End (Spring)",
+    "front": "Front-End (React)",
+    "interfaz": "Interfaz de Usuario"
+}

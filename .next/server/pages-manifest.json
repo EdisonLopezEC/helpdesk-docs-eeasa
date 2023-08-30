@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/entorno": "pages/entorno.js",
+  "/interfaz": "pages/interfaz.js",
+  "/": "pages/index.js",
+  "/inicio/objetivosAlcance": "pages/inicio/objetivosAlcance.js",
+  "/inicio": "pages/inicio.js",
+  "/back/emailcontroller": "pages/back/emailcontroller.js",
+  "/back/emailservice": "pages/back/emailservice.js",
+  "/back": "pages/back.js",
+  "/back/ticketscontroller": "pages/back/ticketscontroller.js"
+}
